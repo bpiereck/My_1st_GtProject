@@ -26,7 +26,7 @@ ____________
 
 Git status alows me to check what I have or havent commit and staged. Also checks if there is untracked files.
 
-![Image to my doc]{[git_treino_fork/FsElVKWaEAEXC8h.jpg at master · bpiereck/git_treino_fork · GitHub](https://raw.githubusercontent.com/bpiereck/git_treino_fork/master/imagens_treino/FsElVKWaEAEXC8h.jpg)
+
 
 
 
