@@ -13,3 +13,11 @@
 - Staging area: intermidiae area to organize and plan my commit
 
 - Local repo: Git timeline - with my commits
+
+
+
+
+
+____________
+
+Git status alows me to check what I have or havent commit and staged. Also checks if there is untracked files.
