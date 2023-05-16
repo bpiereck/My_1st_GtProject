@@ -11,6 +11,8 @@
 - Dev. Area: folder where I dev. my project
 
 - Staging area: intermidiae area to organize and plan my commit
+  
+  - Why do I use it? .........
 
 - Local repo: Git timeline - with my commits
 
