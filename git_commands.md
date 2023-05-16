@@ -13,4 +13,16 @@ git add <file_1> <file_2> <file_3>
 git add *.csv
 ```
 
+Creating a remote repo
+
+```
+git remote add <name of local repo> <SSH adress of remote repo>
+```
+
+To send thing to my remote repo
+
+```
+git push
+```
+
 

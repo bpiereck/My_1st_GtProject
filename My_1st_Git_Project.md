@@ -16,6 +16,8 @@
 
 - Local repo: Git timeline - with my commits
 
+- Remote repository: GitHub - I setup a link (bridge) to be able to share things between remote - local
+
 
 
 
