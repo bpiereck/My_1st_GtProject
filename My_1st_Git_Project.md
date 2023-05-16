@@ -21,3 +21,9 @@
 ____________
 
 Git status alows me to check what I have or havent commit and staged. Also checks if there is untracked files.
+
+
+
+
+
+What happens if I try to comit without -m?
