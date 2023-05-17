@@ -7,3 +7,9 @@ git commit -m "meaninful msg"
 ```
 
 
+
+```
+git checkout <branch name>
+or
+git checkout <commitID>
+```
